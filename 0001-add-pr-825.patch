@@ -1,7 +1,7 @@
-From 09034e42e357783666c1c6166f2229d1195ba5ed Mon Sep 17 00:00:00 2001
+From c499eb623d77b1fa5c933ff2ce3d37ab76c10558 Mon Sep 17 00:00:00 2001
 From: Zheng Junjie <zhengjunjie@iscas.ac.cn>
 Date: Tue, 12 Nov 2024 11:24:58 +0800
-Subject: [PATCH] add pr 825.
+Subject: [PATCH 1/2] add pr 825.
 
 ---
  debian/patches/0001-pr-825.patch | 54 ++++++++++++++++++++++++++++++++
