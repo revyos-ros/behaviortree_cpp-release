@@ -1,3 +1,26 @@
+## behaviortree_cpp_v3 (jazzy) - 3.8.7-2
+
+The packages in the `behaviortree_cpp_v3` repository were released into the `jazzy` distro by running `/root/venv/bin/bloom-release -r jazzy behaviortree_cpp_v3 --override-release-repository-push-url git@github.com:revyos-ros/behaviortree_cpp-release.git` on `Thu, 09 Jan 2025 04:59:43 -0000`
+
+The `behaviortree_cpp_v3` package was released.
+
+Version of package(s) in repository `behaviortree_cpp_v3`:
+
+- upstream repository: https://github.com/BehaviorTree/BehaviorTree.CPP.git
+- release repository: https://github.com/revyos-ros/behaviortree_cpp-release.git
+- rosdistro version: `3.8.7-1`
+- old version: `3.8.7-1`
+- new version: `3.8.7-2`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## behaviortree_cpp_v3 (jazzy) - 3.8.7-1
 
 The packages in the `behaviortree_cpp_v3` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy behaviortree_cpp_v3 --override-release-repository-push-url git@github.com:revyos-ros/behaviortree_cpp-release.git` on `Tue, 12 Nov 2024 03:26:23 -0000`
